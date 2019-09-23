@@ -1,0 +1,10 @@
+Smith,John,743 Evergreen Street,Pittsburgh,PA,15221,111-11-1111,10000000000,43243,1,checking
+Jones,Daniel,134 Phillips Avenue,Pittsburgh,PA,15218,222-22-2222,10000000001,46477,2,checking
+Everett,Samantha,456 Hobart Street,Pittsburgh,PA,15217,333-33-3333,10000000002,100000,3,checking
+Brown,Jason,7645 Liberty Avenue,Pittsburgh,PA,15222,444-44-4444,10000000003,303000,4,checking
+Lawrence,Jane,631 Bartlett Street,Pittsburgh,PA,15217,555-55-5555,10000000004,3236,9,checking
+Doe,Laura,490 Brownsville Road,Pittsburgh,PA,15228,666-66-6666,10000000005,700.45,6,savings
+Lee,Rosaline,6140 Cedar Road,Pittsburgh,PA,15228,777-77-7777,10000000006,100004356.05,7,savings
+Malley,Joshua,105 Forward Avenue,Pittsburgh,PA,15218,888-88-8888,10000000007,45642.9,8,savings
+Marcus,Norman,567 Whipple Street,Pittsburgh,PA,15218,999-99-9999,10000000008,-56.01,9,savings
+Lawson,Frederick,634 Forbes Avenue,Pittsburgh,PA,15222,000-00-0000,10000000009,4548563.00,10,savings
